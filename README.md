@@ -24,5 +24,5 @@ The Memory Card Game is a classic matching game where players try to find pairs 
    ```bash
    cd CardsMatchGame
    ```
-3. **Open index.html in a Web Browser:**
+3. **Open index.html in a Web Browser:**<br>
    Simply open the index.html file in your web browser to start playing the game.
